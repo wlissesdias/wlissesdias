@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   
-  <a href="wlisses549@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/1/#sent?compose=GTvVlcSGLrNCxFSLQSdCtzGCfhDtgcLpSJjCjJbHQPQHtZtSJTVwvFNfBmGgrrbZBpQlCwTMJqFsr" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
