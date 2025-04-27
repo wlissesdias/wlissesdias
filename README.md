@@ -23,7 +23,7 @@
 ##
 
 <div>
-  <a href="https://instagram.com/rafaballerin1" target="_blank">
+  <a href="https://www.instagram.com/wlisses_.sousa/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
-  <a href="https://www.instagram.com/wlisses_.sousa/" target="_blank">
+  <a href="https://www.linkedin.com/in/wlisses-sousa-a5bba3206/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
