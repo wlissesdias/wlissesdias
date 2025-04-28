@@ -2,7 +2,8 @@
 
 🖥️ - atualmente trabalho com TI <br>
 📚 - Estudante - Front-end | Back-end <br>
-🎓 - Estudante em curso na Escola DNC - Engenheiro de Software | Estácio - Desenvolvimento Full Stack
+🎓 - Escola DNC - Engenheiro de Software 
+💻 - Estácio - Desenvolvimento Full Stack
 
 
 <div>
