@@ -1,10 +1,8 @@
-## Olá sou Ulisses 👋
+## Olá sou Wlisses Sousa 👋
 
-🖥️ - atualmente trabalho com TI <br>
-📚 - Estudante - Front-end | Back-end <br>
-🎓 - Escola DNC - Engenheiro de Software <br>
-💻 - Estácio - Desenvolvimento Full Stack
-
+🖥️ - Tenho 25 anos, atualmente trabalho com TI|  <br>
+🎓 - Estácio-cursando Bacharelado - Engenharia de software <br>
+💻 - Escola DNC - Desenvimento Full Stack <br>
 
 <div>
   <a href="https://github.com/wlissesdias?tab=repositories">
